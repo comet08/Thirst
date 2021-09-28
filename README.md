@@ -22,6 +22,11 @@
 <h4 align='center'>농촌으로 가는 길이 더 쉽고, 친숙하도록. 그리고 농촌의 문제를 함께 바라보고 해결할 수 있도록.</h4>
 <h3 align='center'>농촌 활성화 서비스 '촌스러운'을 구상하게 되었다.</h4>
 
+![image](https://user-images.githubusercontent.com/51084402/135080976-af7bf21f-2678-4347-9bd7-ecaf65d6d21c.png)
+![image](https://user-images.githubusercontent.com/51084402/135081004-aec6e758-0ede-4945-913c-e63f65e606e6.png)
+
+https://youtu.be/O1isrVwwPJw
+
 ## 주요 기능
 ### 💚 쉽게
 - 실시간 잔여석 확인
