@@ -8,6 +8,8 @@
 ` 개발자💻 ` 박성혜, 신형환 <br/>
 ` 디자이너🖌 ` 이안나
 
+## https://youtu.be/O1isrVwwPJw
+
 # 프로젝트 소개
 ## 배경
 ><h3>농촌 체험의 비활성화</h3>
@@ -18,14 +20,14 @@
 > 농촌 속 빈집 문제, 고령화 현상을 해결하기 위해 우리는 무엇을 할 수 있을까?
 
 
-
 <h4 align='center'>농촌으로 가는 길이 더 쉽고, 친숙하도록. 그리고 농촌의 문제를 함께 바라보고 해결할 수 있도록.</h4>
 <h3 align='center'>농촌 활성화 서비스 '촌스러운'을 구상하게 되었다.</h4>
 
-![image](https://user-images.githubusercontent.com/51084402/135080976-af7bf21f-2678-4347-9bd7-ecaf65d6d21c.png)
-![image](https://user-images.githubusercontent.com/51084402/135081004-aec6e758-0ede-4945-913c-e63f65e606e6.png)
+<image src="/images/1.png">
+<image src="/images/1.png">
+<image src="/images/3.png">
+<image src="/images/4.png">
 
-https://youtu.be/O1isrVwwPJw
 
 ## 주요 기능
 ### 💚 쉽게
