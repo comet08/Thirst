@@ -24,7 +24,7 @@
 <h3 align='center'>농촌 활성화 서비스 '촌스러운'을 구상하게 되었다.</h4>
 
 <image src="/images/1.png">
-<image src="/images/1.png">
+<image src="/images/2.png">
 <image src="/images/3.png">
 <image src="/images/4.png">
 
@@ -47,7 +47,7 @@
 
 
 ## 구현됐어요🤗
-
+ <h4>주요 기능</h4>
 - 로그인, 로그아웃, 회원가입
 
 - 내 프로필 조회, <h4>내 예약현황 조회(리스트와 달력에 표시)</h4>
